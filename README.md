@@ -16,5 +16,5 @@ This repository houses two educational projects developed to enhance learning an
 - **Objective**: To provide an introductory course on Python programming, leveraging Jupyter notebooks to teach the basics of Python.
 - **Tools Used**: Python, Jupyter notebooks, and Binder for a seamless, setup-free user experience.
 - **Features**: Binder integration allows students to launch Jupyter notebooks in their browser without any local setup, making it incredibly accessible for beginners.
-- **Audience**: Individuals interested in learning Python, with a focus on applications in data analysis and a case study on pandemic data.
+- **Audience**: Individuals interested in learning Python basics.
 - **Contents**: The folder includes a series of Jupyter notebooks covering Python basics, from syntax to advanced data manipulation techniques.
